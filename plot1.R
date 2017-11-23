@@ -11,3 +11,4 @@ plot(tot_emi,xlab = "Year",ylab = "Total Emissions (Thousands)",main = "Total PM
 axis(1,tot_emi$Year)
 lines(tot_emi)
 dev.off()
+## esto es un cambio
